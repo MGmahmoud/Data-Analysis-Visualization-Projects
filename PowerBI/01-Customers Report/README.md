@@ -20,6 +20,10 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 - Explored the dataset to **understand its structure and relationships**.
 - Performed **data cleaning and transformation** to ensure accuracy and consistency.
 
+![4-1](https://github.com/user-attachments/assets/8f8879f0-9f1c-4184-92da-996441f3a20c)
+
+![15](https://github.com/user-attachments/assets/41b074e5-8de3-4095-a78a-ca31238dc8f8)
+
 ### 3️⃣ Creating a Business Document  
 - Summarized the **requirements, expected insights, and planned visuals** in a structured document.
 - This step helped keep my **thinking process organized** throughout the project.
