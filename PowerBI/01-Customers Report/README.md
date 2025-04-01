@@ -40,7 +40,8 @@ To demonstrate my structured approach to Power BI projects, I followed these key
   - **Customer Segmentation (VIP, Loyal, Periodic Buyers)**
   - **Revenue Analysis by Customer Demographics (Gender, Age, Family Status)**
   - **Dynamic Ranking of Top Customers**
-![12](https://github.com/user-attachments/assets/fbf4e40b-e8e7-4d2c-a695-9c850c161cb2)![13](https://github.com/user-attachments/assets/24f7d3db-a3b1-473e-a4d8-fe4db30b094d)
+![12](https://github.com/user-attachments/assets/fbf4e40b-e8e7-4d2c-a695-9c850c161cb2)
+![13](https://github.com/user-attachments/assets/24f7d3db-a3b1-473e-a4d8-fe4db30b094d)
 ![14](https://github.com/user-attachments/assets/08483fd3-4a03-47e5-a7ca-bdfe3845743d)
 
 attachments/assets/7c6a090a-b27a-40a5-8914-46f134ccfcdd)
