@@ -3,7 +3,6 @@
 ## Overview
 This interactive and dynamic **Customer Report** showcases my ability to leverage **Power BI** for professional data visualization. The report features both **light and dark themes**, providing a sleek and customizable user experience. Additionally, I implemented **advanced DAX formulas** to handle complex calculations, as discussed in this chat.
 
-
 ![9](https://github.com/user-attachments/assets/0324cc5d-d037-49e1-a185-e6ff891448b4)
 
 ![10](https://github.com/user-attachments/assets/c3d2c550-d7ed-4d5d-a70a-caaa69888f2f)
@@ -15,6 +14,7 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 - I worked with a **virtual business request** that required generating customer insights from **AdventureWorksDW.xlsx**.
 
 ![1](https://github.com/user-attachments/assets/c8f841ee-6fcf-4acb-af08-703fc389dc6e)
+![16](https://github.com/user-attachments/assets/40eb778e-88e1-486c-a869-f38369305f0a)
 ![1](https://github.com/user-attachments/assets/47388110-f571-4e2a-8805-1c8f562008f8)
 
 ### 2️⃣ Data Investigation & Cleaning  
