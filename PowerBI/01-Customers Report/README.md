@@ -44,9 +44,6 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 ![13](https://github.com/user-attachments/assets/24f7d3db-a3b1-473e-a4d8-fe4db30b094d)
 ![14](https://github.com/user-attachments/assets/08483fd3-4a03-47e5-a7ca-bdfe3845743d)
 
-attachments/assets/7c6a090a-b27a-40a5-8914-46f134ccfcdd)
-
-
 - Built **interactive visuals** to effectively communicate the insights.
 
 ## Key Features of the Dashboard
@@ -55,16 +52,5 @@ attachments/assets/7c6a090a-b27a-40a5-8914-46f134ccfcdd)
 ✅ **Advanced DAX Measures** to handle complex business logic.  
 ✅ **Clean and Professional Visual Design** aligned with best practices.  
 
-## Tools & Technologies Used
-- **Power BI** – for visualization & interactive reporting.
-- **DAX** – for complex calculations.
-- **Power Query** – for data transformation.
-- **AdventureWorksDW.xlsx** – as the dataset.
-
 ## Final Thoughts
-This project demonstrates my **end-to-end Power BI workflow**, from understanding business needs to designing, developing, and optimizing a dashboard. The structured process ensures that insights are clear, actionable, and visually compelling.
-
----
-🚀 **Next Steps:** I plan to continue refining my Power BI expertise by taking on new challenges in **data visualization, analytics, and dashboard development.**
-
-🔗 **[View the Dashboard]()** *(Add link to Power BI file or published report when available)*
+This project demonstrates my **end-to-end Power BI workflow**, from understanding business needs to designing, developing, and optimizing a dashboard.
