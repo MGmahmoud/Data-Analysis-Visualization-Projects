@@ -13,7 +13,6 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 
 ### 1️⃣ Receiving Business Requirements  
 - I worked with a **virtual business request** that required generating customer insights from **AdventureWorksDW.xlsx**.
-- The request outlined key metrics, including **customer demographics, purchasing behavior, and revenue analysis**.
 
 ![1](https://github.com/user-attachments/assets/c8f841ee-6fcf-4acb-af08-703fc389dc6e)
 
