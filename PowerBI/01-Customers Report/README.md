@@ -3,7 +3,9 @@
 ## Overview
 This interactive and dynamic **Customer Report** showcases my ability to leverage **Power BI** for professional data visualization. The report features both **light and dark themes**, providing a sleek and customizable user experience. Additionally, I implemented **advanced DAX formulas** to handle complex calculations, as discussed in this chat.
 
-![1](https://github.com/user-attachments/assets/5d82c9cc-5f85-46cf-a6cc-268f09e840a7)
+
+![9](https://github.com/user-attachments/assets/ce25f59f-3d3f-4d91-b0b1-16a0be138abc)
+![10](https://github.com/user-attachments/assets/b5038936-fb48-4517-88b1-af47e84b6490)
 
 ## My Process: How I Built This Report
 To demonstrate my structured approach to Power BI projects, I followed these key steps:
