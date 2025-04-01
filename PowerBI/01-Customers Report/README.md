@@ -28,6 +28,8 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 - Summarized the **requirements, expected insights, and planned visuals** in a structured document.
 - This step helped keep my **thinking process organized** throughout the project.
 
+![2](https://github.com/user-attachments/assets/2a83bc4e-ccbc-494b-9e75-32f8ff89de72)
+
 ### 4️⃣ Choosing the Color Scheme & Initial Dashboard Design  
 - Selected a **professional color palette** to enhance readability and engagement.
 - Created a rough wireframe to outline the **dashboard layout** before implementation.
