@@ -9,12 +9,13 @@ This interactive and dynamic **Customer Report** showcases my ability to leverag
 ![10](https://github.com/user-attachments/assets/c3d2c550-d7ed-4d5d-a70a-caaa69888f2f)
 
 ## My Process: How I Built This Report
-
 To demonstrate my structured approach to Power BI projects, I followed these key steps:
 
 ### 1️⃣ Receiving Business Requirements  
 - I worked with a **virtual business request** that required generating customer insights from **AdventureWorksDW.xlsx**.
 - The request outlined key metrics, including **customer demographics, purchasing behavior, and revenue analysis**.
+
+![1](https://github.com/user-attachments/assets/c8f841ee-6fcf-4acb-af08-703fc389dc6e)
 
 ### 2️⃣ Data Investigation & Cleaning  
 - Explored the dataset to **understand its structure and relationships**.
