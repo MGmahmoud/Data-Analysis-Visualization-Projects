@@ -13,7 +13,7 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 ### 1️⃣ Receiving Business Requirements  
 - I worked with a **virtual business request** that required generating customer insights from **AdventureWorksDW.xlsx**.
 
-![16](https://github.com/user-attachments/assets/40eb778e-88e1-486c-a869-f38369305f0a)
+![1](https://github.com/user-attachments/assets/28da804f-ef86-40c8-aebd-4dc0f9b16dcf)
 
 ### 2️⃣ Data Investigation & Cleaning  
 - Explored the dataset to **understand its structure and relationships**.
@@ -27,7 +27,7 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 - Summarized the **requirements, expected insights, and planned visuals** in a structured document.
 - This step helped keep my **thinking process organized** throughout the project.
 
-![2](https://github.com/user-attachments/assets/2a83bc4e-ccbc-494b-9e75-32f8ff89de72)
+![2](https://github.com/user-attachments/assets/ba4d8e33-0b9d-4c2e-9370-f12b074ffb1d)
 
 ### 4️⃣ Choosing the Color Scheme & Initial Dashboard Design  
 - Selected a **professional color palette** to enhance readability and engagement.
