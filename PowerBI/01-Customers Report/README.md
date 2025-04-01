@@ -32,13 +32,18 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 
 ### 4️⃣ Choosing the Color Scheme & Initial Dashboard Design  
 - Selected a **professional color palette** to enhance readability and engagement.
-- Created a rough wireframe to outline the **dashboard layout** before implementation.
+
+![4](https://github.com/user-attachments/assets/01d97b2e-07bc-4d1d-880e-c488ad7040c1)
 
 ### 5️⃣ Implementing DAX Formulas & Building the Dashboard  
 - Created **calculated measures** to derive key insights, such as:
   - **Customer Segmentation (VIP, Loyal, Periodic Buyers)**
   - **Revenue Analysis by Customer Demographics (Gender, Age, Family Status)**
   - **Dynamic Ranking of Top Customers**
+![12](https://github.com/user-attachments/assets/fbf4e40b-e8e7-4d2c-a695-9c850c161cb2)![13](https://github.com/user-![14](https://github.com/user-attachments/assets/1d91a757-e5b7-42ac-b1d4-f1fb913fb488)
+attachments/assets/7c6a090a-b27a-40a5-8914-46f134ccfcdd)
+
+
 - Built **interactive visuals** to effectively communicate the insights.
 
 ## Key Features of the Dashboard
