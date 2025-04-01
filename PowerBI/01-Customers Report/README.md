@@ -13,9 +13,7 @@ To demonstrate my structured approach to Power BI projects, I followed these key
 ### 1️⃣ Receiving Business Requirements  
 - I worked with a **virtual business request** that required generating customer insights from **AdventureWorksDW.xlsx**.
 
-![1](https://github.com/user-attachments/assets/c8f841ee-6fcf-4acb-af08-703fc389dc6e)
 ![16](https://github.com/user-attachments/assets/40eb778e-88e1-486c-a869-f38369305f0a)
-![1](https://github.com/user-attachments/assets/47388110-f571-4e2a-8805-1c8f562008f8)
 
 ### 2️⃣ Data Investigation & Cleaning  
 - Explored the dataset to **understand its structure and relationships**.
