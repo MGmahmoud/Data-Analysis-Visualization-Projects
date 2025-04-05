@@ -63,8 +63,7 @@ The goal was to uncover the **factors influencing customer churn** and provide a
 
 ## 🎯 Key Findings & Recommendations
 ---
-![17](https://github.com/user-attachments/assets/94ac87a6-c600-480f-9cd5-308ad00130ba)
-
+![17](https://github.com/user-attachments/assets/ca299ea1-837f-48da-a158-79e4a5be5e07)
 ---
 
 ## 💡 Final Thoughts  
