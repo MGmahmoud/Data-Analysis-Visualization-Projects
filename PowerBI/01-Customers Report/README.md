@@ -1,7 +1,7 @@
 # Customer Report (Power BI Project)
 
 ## Overview
-This interactive and dynamic **Customer Report** showcases my ability to leverage **Power BI** for professional data visualization. The report features both **light and dark themes**, providing a sleek and customizable user experience. Additionally, I implemented **advanced DAX formulas** to handle complex calculations, as discussed in this chat.
+This interactive and dynamic **Customer Report** showcases my ability to leverage **Power BI** for professional data visualization. The report features both **light and dark themes**, providing a sleek and customizable user experience. Additionally, I implemented **advanced DAX formulas** to handle complex calculations, as discussed Here.
 
 ![9](https://github.com/user-attachments/assets/0324cc5d-d037-49e1-a185-e6ff891448b4)
 
