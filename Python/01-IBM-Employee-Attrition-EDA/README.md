@@ -1,7 +1,3 @@
-Here's the updated version of your README file with the changes you requested:
-
----
-
 # **IBM Employee Attrition Analysis**
 
 This project explores the **IBM Employee Attrition Dataset**, aiming to uncover patterns and insights related to employee attrition using **Exploratory Data Analysis (EDA)** and machine learning techniques. The notebook walks through a comprehensive data analysis pipeline, demonstrating critical steps in understanding, visualizing, and modeling the dataset.
