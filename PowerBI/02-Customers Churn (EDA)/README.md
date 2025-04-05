@@ -62,29 +62,10 @@ The goal was to uncover the **factors influencing customer churn** and provide a
 ---
 
 ## 🎯 Key Findings & Recommendations
-
-| Finding | Recommendation |
-|--------|----------------|
-| High churn from "competitor offers" | Benchmark and enhance offers |
-| Customers aged 60+ churn more | Investigate service suitability or age-related factors |
-| Monthly contracts = high churn | Promote yearly plans with benefits |
-| Paper check users churn more | Encourage digital payment methods |
-| Unlimited plans + low usage churn | Consider targeted usage-based pricing |
-| Low service call states = high churn | Evaluate customer engagement levels |
-
 ---
-
-## 📌 Dashboard Features  
-✅ Interactive filtering by age, contract, and payment type  
-✅ Drill-down visuals on churn reasons  
-✅ Dynamic DAX-based measures  
-✅ Clean, responsive design  
+![17](https://github.com/user-attachments/assets/94ac87a6-c600-480f-9cd5-308ad00130ba)
 
 ---
 
 ## 💡 Final Thoughts  
 This project demonstrates a complete **Power BI EDA pipeline**, from business understanding and data modeling to DAX formulation and dashboard storytelling.
-
----
-
-Let me know when you're ready, and I can help you format the README with real image links and push it to your GitHub! Want to include a video demo as well? 🎥
