@@ -28,33 +28,37 @@ The goal was to uncover the **factors influencing customer churn** and provide a
 ### 2️⃣ Data Investigation & Cleaning  
 - Conducted **EDA across data categories**: demographics, contracts, services, billing.
 - Identified **null values**, standardized formats, and verified data consistency.
-
-![Data Cleaning Screenshot](https://github.com/your-image-link)
-
+---
+![5](https://github.com/user-attachments/assets/332c321d-73b7-4064-8eb9-577027552209)
+---
+![12](https://github.com/user-attachments/assets/285fca65-1d32-4972-8919-9df4c6b20925)
+---
+![13](https://github.com/user-attachments/assets/55380760-4c37-4c05-9b47-232f1c8ecc19)
+---
 ### 3️⃣ Business Document  
 - Created a **Business Demand Document** including:
   - Business Overview
   - Key Requirements  
   - User Stories & Success Criteria  
-- Summarized insights needed and visuals planned.
-
-![Business Doc Screenshot](https://github.com/your-image-link)
+---
+![2](https://github.com/user-attachments/assets/7cb2932d-bf52-4540-b6ba-7813ad8f3899)
+---
+![3](https://github.com/user-attachments/assets/e055495d-4aa7-4038-921c-e7b1037066fd)
+---
 
 ### 4️⃣ Dashboard Design & Color Scheme  
-- Selected a clear, accessible **color palette**.
-  - Dual tones for binary charts (e.g., Churned vs Retained)
-  - Distinct tones for multi-category charts (e.g., churn reasons, payment types)
-
-![Color Design](https://github.com/your-image-link)
-
+---
+![6](https://github.com/user-attachments/assets/ece90f0f-8306-4f92-a472-713a3028863b)
+---
+![14](https://github.com/user-attachments/assets/eb210001-19ec-4e42-a136-2dd542d7080a)
+---
 ### 5️⃣ DAX & Dashboard Development  
 - Built measures for:
-  - Churn Rate by age, contract, payment method, etc.
-  - Top churn reasons
-  - Risk segmentation based on behavior and demographics
-
-![Dashboard Visuals](https://github.com/your-image-link)
-
+  - Churn Rate, contract, payment method, etc.
+---
+![15](https://github.com/user-attachments/assets/ddaa675a-a9f8-4e1c-8620-d355a6075c4b)
+---
+![16](https://github.com/user-attachments/assets/d548ac70-b91e-414f-a945-957168597295)
 ---
 
 ## 🎯 Key Findings & Recommendations
