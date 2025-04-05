@@ -1,26 +1,29 @@
-Perfect! Here's a GitHub-style README template for your **Customer Churn Dashboard** project, mimicking your previous Customer Report style but tailored to this case:
-
----
-
 # Customer Churn Dashboard (Power BI Project)
 
 ## 📊 Overview  
 This **Customer Churn Dashboard** project showcases my ability to conduct **exploratory data analysis (EDA)** and build insightful, interactive dashboards using **Power BI**.  
-The goal was to uncover the **factors influencing customer churn** and provide actionable business recommendations, with clean visuals and advanced **DAX calculations**.
+The goal was to uncover the **factors influencing customer churn** and provide actionable business recommendations.
 
-![Dashboard Preview](https://github.com/your-image-link)
+
+![7](https://github.com/user-attachments/assets/ee3708e1-c344-4dbb-8dc5-89560956cc8d)
+---
+![8](https://github.com/user-attachments/assets/1467f003-27c2-4d64-a384-9e60a951487e)
+---
+![9](https://github.com/user-attachments/assets/13343640-d2b3-48b7-b49e-033866e14794)
+---
+![10](https://github.com/user-attachments/assets/4fdd09f8-9649-402c-b252-d05cf08c59a6)
+---
+![11](https://github.com/user-attachments/assets/d72aa3e5-29be-4a53-892f-c5de84a1a92c)
 
 ---
 
 ## 🔍 My Process: How I Tackled the Churn Case Study
 
 ### 1️⃣ Business Requirements  
-- **Goal:** Understand what drives customer churn and how to reduce it.  
-- **Data Source:** Provided churn dataset simulating real-world telecom data.  
-- **Main Questions:**
-  - Who are the customers that churn?
-  - What services are they using?
-  - What patterns can predict churn?
+- **Goal:** Understand what drives customer churn and how to reduce it.
+---  
+![1](https://github.com/user-attachments/assets/b1ecb5ef-0a9d-4d52-9355-19d9d4021e48)
+---
 
 ### 2️⃣ Data Investigation & Cleaning  
 - Conducted **EDA across data categories**: demographics, contracts, services, billing.
