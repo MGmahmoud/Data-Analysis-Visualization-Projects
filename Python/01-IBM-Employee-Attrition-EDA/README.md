@@ -79,4 +79,4 @@ The dataset contains employee information, such as:
 ### **Kaggle Link**  
 
 Explore the dataset on Kaggle:  
-[[Kaggle: IBM Employee Attrition Dataset](https://www.kaggle.com/datasets/IBM/employee-attrition](https://www.kaggle.com/code/mahmoudelhelaly/ibm-employee-attrition-analysis))
+[[Kaggle: IBM Employee Attrition Dataset](https://www.kaggle.com/code/mahmoudelhelaly/ibm-employee-attrition-analysis)]
